@@ -8,10 +8,9 @@ This project explores the transferability of Named Entity Recognition (NER) mode
 
 To install the required dependencies and use the project, please follow the guidelines provided in [Filtered-Semi-Markov-CRF](https://github.com/urchade/Filtered-Semi-Markov-CRF). For the configuration options, please use:
 
-    ```yaml
     model_type: "standard"
     decoding: "global"
-    ```
+
 
 ## Dataset and Annotation
 
