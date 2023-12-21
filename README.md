@@ -18,7 +18,7 @@ The project uses datasets from the ACE 2005 corpus for Modern Standard Arabic (M
 
 ## Citation
 
-If you find this code useful in your research, please consider citing our papers:
+If you find this work useful in your research, please consider citing our papers:
 
 ```bibtex
 @inproceedings{elkhbir-etal-2023-cross,
